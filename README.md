@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=Yash%20Dhudat&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=%E2%9A%A1%20AI%20Engineer%20%7C%20ML%20Builder%20%7C%20Data%20Analyst%20%7C%20GSA&descAlignY=60&descSize=17&animation=twinkling&stroke=9333ea&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=220&section=header&text=Yash%20Dhudat&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=%E2%9A%A1%20AI%20Engineer%20%7C%20ML%20Builder%20%7C%20Data%20Analyst%20%7C%20GSA&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=%F0%9F%8C%9F+Google+Student+Ambassador+(GSA);%F0%9F%A5%87+Top+150+All+India+%7C+Global+Fintech+Fest+2025;%F0%9F%A4%96+Bharat+AI+Enthusiast+%E2%80%94+Awarded+by+NVIDIA+%26+NPCI;%F0%9F%9A%80+National+Hackathon+Finalist+%7C+EY+%7C+Walmart+%7C+SIH;%F0%9F%93%8A+AI+%2F+ML+%2F+Data+Analytics+Builder" alt="Typing SVG" />
@@ -245,6 +245,6 @@
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0a0a0f&height=120&section=footer&animation=fadeIn" />
 
 </div>
