@@ -5,10 +5,10 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Google+Student+Ambassador+%F0%9F%8C%9F;Final+Year+B.E.+IT+Student+%F0%9F%8E%93;AI+%26+ML+Builder+%F0%9F%A4%96;Data+Analytics+Enthusiast+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Google+Student+Ambassador+%F0%9F%8C%9F;Final+Year+B.E.+IT+Student+%F0%9F%8E%93;AI+%26+ML+Builder+%F0%9F%A4%96;Data+Analytics+Enthusiast+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-yashdhudat.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yashdhudat.vercel.app/)
@@ -118,20 +118,25 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdhudat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdhudat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdhudat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdhudat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashdhudat&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED)](https://github.com/yashdhudat)
+<img src="https://streak-stats.demolab.com?user=yashdhudat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![Yash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashdhudat&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&hide_border=true)](https://github.com/yashdhudat)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashdhudat&theme=tokyo-night&hide_border=true&area=true" alt="Yash's Activity Graph" />
 
 </div>
 
